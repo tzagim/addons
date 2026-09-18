@@ -5,7 +5,7 @@ configuration:
     description: שמות מסדי הנתונים.
   logins:
     name: התחברות
-    description: סעיף זה מגדיר הגדרת יצירת משתמש ב-MariaDB.
+    description: סעיף זה מגדיר משתמשים ב-MariaDB.
   rights:
     name: הרשאות
     description: סעיף זה מעניק הרשאות למשתמשים ב-MariaDB.
